@@ -1,0 +1,5 @@
+apache-beam[gcp]
+tensorflow
+numpy
+pandas
+wheel
